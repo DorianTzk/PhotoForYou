@@ -21,7 +21,7 @@ session_start();
              <?php
            //Connextion a la bdd
            $Conn = new PDO('mysql:host=localhost;dbname=photoforyou',"root","Nntqy177013");
-           //preparation d'une requete
+           //preparation d'une requete permettant de selectionner tout les menus de la bdd
            $sql ='SELECT * FROM menu';
            //execution de la requete
            $resultat = $Conn->query($sql);
