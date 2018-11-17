@@ -1,5 +1,5 @@
 <?php
-//activation de la séssion
+//activation de la session
 session_start();
 
 ?>
