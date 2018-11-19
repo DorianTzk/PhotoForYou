@@ -31,7 +31,7 @@ session_start();
            			//affichage du menu membre
            			echo '
            			<li><a href="achatscredits.php">Acheter des crédits</a></li>
-           			<li><li><a href="achatimages.php">Acheter des images</a></li></li>
+           			<li><a href="achatimages.php">Acheter des images</a></li>
            			<li><a href="contacts.php">Nous contacter</a></li>
            			';
            		
