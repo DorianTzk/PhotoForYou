@@ -14,7 +14,7 @@ License: Creative Commons Attribution
     
     <div id="body">
 		<div id="content">
-			<h2>ACCEUIL</h2>
+			<h2>ACCUEIL</h2>
 
         </div>
         <?php
